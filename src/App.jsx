@@ -23,7 +23,7 @@ const Calculator = () => {
   };
 
   return (
-    <div className="calculator">
+    <div className="calculadoraaaa">
       <div className="screen">
         <input type="text" value={input} readOnly />
       </div>
